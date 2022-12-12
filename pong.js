@@ -36,7 +36,7 @@ let raqueteAltura = 90;
 let xRaqueteP2 = 585;
 let yRaqueteP2 = 150;
 let velocidadeYP2;
-chanceDeErrar = 0;
+//chanceDeErrar = 0;
 
 // velocidade da bolinha
 let velocidadeXBola = 3;
